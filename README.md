@@ -1,16 +1,32 @@
-### Hi there 👋
+- 🔭 I am currently working on my own on my repositories.
+- 🌱 I’m currently learning some languages to program.
+- ⚡ Fun fact: My GitHub username is anagram of my name
 
-<!--
-**Sacimia/Sacimia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Seja bem-vindo ao meu repositório!
+** Sejam bem-vindos ao meu repositório!
 
-Here are some ideas to get you started:
+- Aprimorando mais em programação de computadores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/Sacimia">
+
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?usernamer=Sacimia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact&langs_count=16&theme=dracula">
+  </a>
+</div>
+
+**
+
+*Alguns projetos que estão livres e não terminados*
+
+<div>
+   <div class="nav">
+       <ul>
+          <h5>Estudos</h5>
+          <li>
+            <a href="https://github.com/Sacimia/react-studies">React</a>
+          </li>
+       </ul>
+   </div>
+</div>
