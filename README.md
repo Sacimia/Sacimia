@@ -1,6 +1,5 @@
 - 🔭 I am currently working on my own on my repositories.
 - 🌱 I’m currently learning some languages to program.
-- ⚡ Fun fact: My GitHub username is anagram of my name
 
 **Seja bem-vindo ao meu repositório!**
 
