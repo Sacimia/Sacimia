@@ -52,8 +52,8 @@
   <ul>
    <h5>Jogos feitos em html com repositório</h5>
    <li>
-    **Repositório**
+    <h6>Repositório</h6>
     <a href="https://github.com/Sacimia/jogo-da-cobra-3d">Jogo da cobrinha em 3d</a>
-    **Site**
-    <a href="[https://github.com/Sacimia/jogo-da-cobra-3d](https://sacimia.github.io/jogo-da-cobra-3d/)">Jogo da cobrinha em 3d</a>
+    <h6>Site</h6>
+    <a href="https://sacimia.github.io/jogo-da-cobra-3d/">Jogo da cobrinha em 3d</a>
 </div>
