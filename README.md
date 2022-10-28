@@ -29,3 +29,15 @@
        </ul>
    </div>
 </div>
+
+*Games made on html*
+<div>
+ <div class="nav">
+  <ul>
+   <h5>Games made on html with repositories</h5>
+   <li><a href="https://github.com/Sacimia/blackjack">Black jack</a>
+   <br>
+    <a href="sacimia.github.io/blackjack/">Black jack site</a>
+   </li> 
+  </ul>
+</div>
