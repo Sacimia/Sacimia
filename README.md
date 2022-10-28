@@ -37,7 +37,23 @@
    <h5>Games made on html with repositories</h5>
    <li><a href="https://github.com/Sacimia/blackjack">Black jack</a>
    <br>
-    <a href="sacimia.github.io/blackjack/">Black jack site</a>
-   </li> 
+    <a href="https://sacimia.github.io/blackjack/">Black jack site</a>
+   </li>
+   <li>
+    <a href=""></a>
+   </li>
   </ul>
+</div>
+
+ Portuguese - Brazil 🇧🇷
+ *Jogos feitos em html*
+<div>
+ <div>
+  <ul>
+   <h5>Jogos feitos em html com repositório</h5>
+   <li>
+    **Repositório**
+    <a href="https://github.com/Sacimia/jogo-da-cobra-3d">Jogo da cobrinha em 3d</a>
+    **Site**
+    <a href="[https://github.com/Sacimia/jogo-da-cobra-3d](https://sacimia.github.io/jogo-da-cobra-3d/)">Jogo da cobrinha em 3d</a>
 </div>
