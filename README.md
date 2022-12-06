@@ -22,9 +22,12 @@
 <div>
    <div class="nav">
        <ul>
-          <h5>Estudos</h5>
+          <h5>Estudos / Studies </h5>
           <li>
             <a href="https://github.com/Sacimia/react-studies">React</a>
+          </li>
+          <li>
+           <a href="https://github.com/Sacimia/sfwpt1">Swift</a>
           </li>
        </ul>
    </div>
