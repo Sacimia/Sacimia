@@ -6,20 +6,21 @@
 ---
 
 <a name="english"></a>
-## 👋 Hello! I'm Sacimia
+## 👋 Hi! I'm Sacimia
 
 [Conteúdo em inglês...]
 
 ## What programming language do I enjoy?
 
-** Python, Javascript e Node.js, Web
+Python, Javascript e Node.js, Web
 ---
 
 <a name="português"></a>/
-## 👋 Olá! Eu sou Sacimia
+## 👋 Oi! Eu sou Sacimia
 
 [Conteúdo em português...]
 
-## Que linguagem que eu gosto de programar 
+## Que linguagem que eu gosto de programar
+Python, Javascript e Node.js, Web
 
 ** Python, Javascript e Node.js, Web
