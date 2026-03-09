@@ -12,7 +12,7 @@
 
 ## What programming language do I enjoy?
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact)
 
 
 <a name="português"></a>/
