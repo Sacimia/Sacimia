@@ -12,8 +12,8 @@
 
 ## What programming language do I enjoy?
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact)
 
-Python, Javascript e Node.js, Web
 
 <a name="português"></a>/
 ## 👋 Oi! Eu sou Sacimia
@@ -21,6 +21,7 @@ Python, Javascript e Node.js, Web
 [Conteúdo em português...]
 
 ## Que linguagem que eu gosto de programar?
-Python, Javascript e Node.js, Web
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact&locale=pt-br)
 
 ** Python, Javascript e Node.js, Web
