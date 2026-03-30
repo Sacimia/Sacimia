@@ -24,4 +24,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact&locale=pt-br)
 
+- 🐍 [Ver todos em Python](https://github.com/Sacimia?tab=repositories&language=python)
+
 ** Python, Javascript e Node.js, Web
+
