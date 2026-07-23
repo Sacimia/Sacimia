@@ -10,7 +10,7 @@
 # 👋 Hi! I'm Sacimia
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Biomedical+Engineering+Student;Like+Physics;Hobby+Development+Games&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Like+Physics;Hobby+Development+Games&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
 </p>
 
 🎓 **Biomedical Engineering Student** at [Universidade Federal de Uberlândia]
