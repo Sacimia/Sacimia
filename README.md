@@ -6,8 +6,6 @@
 ---
 
 <a name="english"></a>
-## 👋 Hi! I'm Sacimia
-
 [Conteúdo em inglês...]
 # 👋 Hi! I'm Sacimia
 
