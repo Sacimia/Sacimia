@@ -9,22 +9,34 @@
 ## 👋 Hi! I'm Sacimia
 
 [Conteúdo em inglês...]
+# 👋 Hi! I'm Sacimia
 
-## What programming language do I enjoy?
+🎓 Biomedical Engineering student
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact)
+💻 Passionate about software development, biomedical signal processing, artificial intelligence and robotics.
+
+🧠 Interested in:
+- Medical Robotics
+- Artificial Intelligence
+- Medical Image Processing
+- Embedded Systems
+- Computer Vision
+- Biomedical Signal Processing (ECG, EEG, EMG)
 
 
 <a name="português"></a>/
-## 👋 Oi! Eu sou Sacimia
 
 [Conteúdo em português...]
+# 👋 Olá! Eu sou Sacimia
 
-## Que linguagem que eu gosto de programar?
+🎓 Estudante de Engenharia Biomédica
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sacimia&layout=compact&locale=pt-br)
+💻 Apaixonado por desenvolvimento de software, processamento de sinais biomédicos, inteligência artificial e robótica.
 
-- 🐍 [Ver todos em Python](https://github.com/Sacimia?tab=repositories&language=python)
-
-** Python, Javascript e Node.js, Web
-
+🧠 Tenho interesse em:
+- Robótica Médica
+- Inteligência Artificial
+- Processamento de Imagens Médicas
+- Sistemas Embarcados
+- Visão Computacional
+- Processamento de Sinais Biomédicos (ECG, EEG e EMG)
