@@ -10,7 +10,7 @@
 # 👋 Hi! I'm Sacimia
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Like+Physics;Hobby+Development+Games&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical+Engineering+Student;Biomedical+Engineering+Student;Like+Physics;Hobby+Development+Games&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
 </p>
 
 🎓 **Biomedical Engineering Student** at [Universidade Federal de Uberlândia]
@@ -38,6 +38,13 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+### 📌 Featured Projects:
+<p align="center">
+  <a href="https://github.com/ppufu20261/robotic-hand-in-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppufu20261&repo=robotic-hand-in-c&theme=radical" alt="Robotic Hand in C" />
+  </a>
+</p>
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sacimia&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -54,7 +61,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sacimia&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
-### 📫 Connect with me: Inactive
+### 📫 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/sacimia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,7 +84,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Engenharia+Biomédica;Gosto+de+física;Hobby+Desenvolvimento+de+Jogos&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
 </p>
 
-🎓 **Estudante de Engenharia Biomédica** na [Sua Universidade]
+🎓 **Estudante de Engenharia Biomédica** na [Universidade Federal de Uberlândia]
 
 💻 Gosto de Física, Hobby Desenvolvimento de Jogos
 
@@ -102,6 +109,13 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+### 📌 Projetos em Destaque:
+<p align="center">
+  <a href="https://github.com/ppufu20261/robotic-hand-in-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppufu20261&repo=robotic-hand-in-c&theme=radical" alt="Mão Robótica em C" />
+  </a>
+</p>
+
 ### 📊 Estatísticas do GitHub:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sacimia&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -118,7 +132,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sacimia&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
-### 📫 Conecte-se comigo: - Inativo
+### 📫 Conecte-se comigo:
 <p align="left">
   <a href="https://linkedin.com/in/sacimia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
